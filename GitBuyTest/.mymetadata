@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="GitBuyTest"
+  id="myeclipse.1417740952586"
+  context-root="/GitBuyTest"
+  j2ee-spec="5.0"
+  archive="GitBuyTest.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
